@@ -1,7 +1,7 @@
  /**
    * Important class that we can document here.
    */
-  class ImportantClass{
+  public class ImportantClass{
     public name: string;
     /**
      * Constructor of the important class
