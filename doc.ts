@@ -39,7 +39,7 @@
  * @param {number} y
  * @returns {number} Sum of x and y
  */
- export function add2s(x: number, y: number): number {
+ export function asdasdasdasdasd(x: number, y: number): number {
     return x + y;
   }
 
